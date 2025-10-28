@@ -2,7 +2,7 @@
 
 A **beautiful, animated Todo App** with filtering, dark mode, and smooth transitions. Built with **React**, **Framer Motion**, and deployed on **Vercel**.
 
-Live Demo: (https://todo-reactapp-zeta.vercel.app/)
+Live Demo: [https://todo-react-tymur.vercel.app](https://todo-react-tymur.vercel.app)
 
 ---
 
@@ -36,5 +36,4 @@ Live Demo: (https://todo-reactapp-zeta.vercel.app/)
 git clone https://github.com/TymurRostovskyi/todo-react.git
 cd todo-react
 npm install
-
 npm run dev

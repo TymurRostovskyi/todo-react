@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  transition: background 0.4s, color 0.4s;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.light {
+  background: linear-gradient(135deg, #e0eafc, #cfdef3);
+  color: #222;
+}
+
+.dark {
+  background: linear-gradient(135deg, #232526, #414345);
+  color: #eee;
+}
